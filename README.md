@@ -34,6 +34,6 @@ Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact)
 ![Meu GIF de Programação](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
-![Meu GIF de Programação](https://i.pinimg.com/originals/47/09/75/470975f6255df5edfc7c157d6f13ed20.gif)
+![Meu GIF de Programação](https://i.pinimg.com/originals/65/a7/d5/65a7d53c0c921de180b400a2a6892381.gif)
 
 
