@@ -29,6 +29,11 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=fff)
 
 ---
 
