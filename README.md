@@ -1,34 +1,60 @@
-# Olá! Eu sou Ellen
+## 👋 Oi, eu sou a Elly!
 
-Sou estudante de Sistemas para Internet na UNIPE, amante de tecnologia, design e inovação. Adoro aprender e aprimorar minhas habilidades, e já desenvolvi projetos que refletem meu interesse por programação, design responsivo e criação de interfaces criativas e funcionais.
-
-### 🌟 Áreas em que sou apta:
-- Desenvolvimento de sites e aplicações web com HTML, CSS, JavaScript e PHP.
-- Integração de banco de dados*com MySQL para projetos dinâmicos e interativos.
-- Criação de layouts personalizados e estilizados com Bootstrap e CSS puro.
-- Desenvolvimento de jogos simples em JavaScript, com foco em experiência do usuário e design criativo.
-- Prototipagem de interfaces amigáveis e otimizadas para diferentes dispositivos.
-- Implementação de funcionalidades interativas, como cronômetros, formulários, chats e sistemas de cadastro.
-
-### 💼 Projetos que já realizei:
-- Patagram: Rede social de pets, com design inspirado no Instagram e banco de dados integrado.
-- Site de Livros: E-commerce com barra de pesquisa, chat integrado e filtros por gênero.
-- Jogo Mastermind
-- Jogo da Velha
-- Site da Toriel (Undertale): Interativo e temático de auto ajuda.
-- Projeto de Criptomoedas: Trabalho acadêmico explorando o funcionamento de moedas digitais.
-
-### 💡 Experiência e habilidades adicionais:
-- Colaboração em **projetos em grupo**, com foco em organização e cumprimento de prazos.
-- **Versionamento de código** e uso de ferramentas como **PHPStorm**.
-- **Criatividade** e **funcionalidade** integradas para engajar usuários em projetos inovadores.
-- Personalização de **temas e interfaces** de acordo com as necessidades do público-alvo.
-
-Estou sempre pronta para novos desafios e disposta a contribuir com minha criatividade, habilidades técnicas e paixão pela tecnologia. 😊
+🎓 Estudante de Tecnologia da Informação, sempre buscando aprender e crescer na área tech.  
+💡 Tenho interesse em desenvolvimento **front-end**, **inteligência artificial** e **cibersegurança**.  
+📚 Atualmente estudando: **Analise de dados, Java, IA**, e dando os primeiros passos com **Devops** e **banco de dados**.  
 
 ---
 
-Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 🚀
+### 💼 Experiência
+
+- 📁 Participação em projetos acadêmicos em grupo com foco em:
+  - Organização de tarefas usando metodologias simples de gestão
+  - Cumprimento de prazos e boa comunicação entre os membros
+  - Divisão de responsabilidades de forma colaborativa
+- 🚧 Desenvolvimento de projetos pessoais para reforçar os estudos práticos
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+
+---
+
+### 🌱 Em aprendizado
+
+- Lógica de programação
+- Versionamento com Git/GitHub
+- Construção de portfólios e projetos pessoais
+- Fundamentos de IA, cibersegurança e análise de dados
+
+---
+
+### 🧠 Habilidades adicionais
+
+- 🤝 Trabalho em equipe e colaboração
+- 🗂️ Organização e gestão de tarefas
+- ⏱️ Cumprimento de prazos e responsabilidade
+- 🌐 Inglês intermediário (leitura técnica e comunicação básica)
+- 💬 Comunicação clara e adaptável
+
+---
+
+### 📫 Como me encontrar
+
+- 📧 E-mail: `ellenruth526@gmail.com`  
+- 💼 [LinkedIn](www.linkedin.com/in/ellen-ruth-cardoso-santos-8818bb283)  
+
+---
+
+> “A jornada é tão importante quanto o destino.” 
+Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 
 
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
