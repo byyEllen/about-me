@@ -1,4 +1,4 @@
-## 👋 Oi, eu sou a Elly!
+##  Oi, eu sou a Elly!
 
 🎓 Estudante de Tecnologia da Informação, sempre buscando aprender e crescer na área tech.  
 💡 Tenho interesse em desenvolvimento **front-end**, **inteligência artificial** e **cibersegurança**.  
