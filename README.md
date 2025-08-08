@@ -66,6 +66,10 @@
 > “A jornada é tão importante quanto o destino.” 
 Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 
 
+
+
+![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact)
 ## ⏳ Estatísticas de Código
 
 <div align="center" style="border: 2px solid #3b82f6; border-radius: 10px; padding: 15px; background-color: rgba(59, 130, 246, 0.05);">
@@ -83,10 +87,6 @@ Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações
 </div>
 
 
-
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact)
 ![Meu GIF de Programação](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 ![Meu GIF de Programação](https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif)
 
