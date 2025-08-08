@@ -70,21 +70,7 @@ Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact)
-## ⏳ Estatísticas de Código
 
-<div align="center" style="border: 2px solid #3b82f6; border-radius: 10px; padding: 15px; background-color: rgba(59, 130, 246, 0.05);">
-
-  <a href="https://wakatime.com/@8dca82a7-3dd9-46e8-bbd3-6cb78cb6ac3c">
-    <img src="https://wakatime.com/badge/user/8dca82a7-3dd9-46e8-bbd3-6cb78cb6ac3c.svg" alt="WakaTime Badge" />
-  </a>
-
-  <br><br>
-
-  <a href="https://wakatime.com/@by_Elly">
-    <img src="https://wakatime.com/share/@by_Elly/f9c97410-852a-4a93-befa-08cb780dddd0.png" alt="WakaTime Stats" />
-  </a>
-
-</div>
 
 
 ![Meu GIF de Programação](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
