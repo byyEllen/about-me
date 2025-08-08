@@ -66,11 +66,11 @@
 > “A jornada é tão importante quanto o destino.” 
 Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 
 
-## ⏳ Tempo de programação (últimos 7 dias)
-[![wakatime](https://wakatime.com/@by_Elly)
+## ⏳ Tempo de programação 
+## ⏳ Tempo de programação
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Wakatime badge](https://wakatime.com/badge/user/8dca82a7-3dd9-46e8-bbd3-6cb78cb6ac3c.svg)](https://wakatime.com/@8dca82a7-3dd9-46e8-bbd3-6cb78cb6ac3c)
+
 
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&hide_title=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact)
