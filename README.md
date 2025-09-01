@@ -1,22 +1,20 @@
-##  Oi, eu sou a Elly!
+##  Oi, eu sou Elly!
 
-🎓 Estudante de Tecnologia da Informação, sempre buscando aprender e crescer na área tech.  
-💡 Tenho interesse em desenvolvimento **front-end**, **inteligência artificial** e **cibersegurança**.  
-📚 Atualmente estudando: **Analise de dados, Java, IA**, e dando os primeiros passos com **Devops** e **banco de dados**.  
+ Estudante de Tecnologia da Informação, sempre buscando aprender e crescer na área tech.  
+ Tenho interesse em desenvolvimento **front-end**, **inteligência artificial** e **cibersegurança**.  
+ Atualmente estudando: **Analise de dados, Java, IA**, e dando os primeiros passos com **Devops** e **banco de dados**.  
 
----
+###  Experiência
 
-### 💼 Experiência
-
-- 📁 Participação em projetos acadêmicos em grupo com foco em:
+-  Participação em projetos acadêmicos em grupo com foco em:
   - Organização de tarefas usando metodologias simples de gestão
   - Cumprimento de prazos e boa comunicação entre os membros
   - Divisão de responsabilidades de forma colaborativa
-- 🚧 Desenvolvimento de projetos pessoais para reforçar os estudos práticos
+-  Desenvolvimento de projetos pessoais para reforçar os estudos práticos
 
 ---
 
-### 🛠️ Tecnologias, ferramentas e ambientes
+###  Tecnologias, ferramentas e ambientes
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
@@ -37,7 +35,7 @@
 
 ---
 
-### 🌱 Em aprendizado
+###  Em aprendizado
 
 - Lógica de programação
 - Versionamento com Git/GitHub
@@ -46,22 +44,22 @@
 
 ---
 
-### 🧠 Habilidades adicionais
+###  Habilidades adicionais
 
-- 🤝 Trabalho em equipe e colaboração
-- 🗂️ Organização e gestão de tarefas
-- ⏱️ Cumprimento de prazos e responsabilidade
-- 🌐 Inglês intermediário (leitura técnica e comunicação básica)
-- 💬 Comunicação clara e adaptável
+-  Trabalho em equipe e colaboração
+-  Organização e gestão de tarefas
+-  Cumprimento de prazos e responsabilidade
+-  Inglês intermediário (leitura técnica e comunicação básica)
+- Comunicação clara e adaptável
 
----
 
-### 📫 Como me encontrar
 
-- 📧 E-mail: `ellenruth526@gmail.com`  
-- 💼 [LinkedIn](www.linkedin.com/in/ellen-ruth-cardoso-santos-8818bb283)  
+###  Como me encontrar
 
----
+-  E-mail: `ellenruth526@gmail.com`  
+-  [LinkedIn](www.linkedin.com/in/ellen-ruth-cardoso-santos-8818bb283)  
+
+
 
 > “A jornada é tão importante quanto o destino.” 
 Sinta-se à vontade para entrar em contato ou me seguir para mais atualizações! 
