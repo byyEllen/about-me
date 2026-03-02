@@ -49,8 +49,9 @@
 
 ##  Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=byyEllen&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=byyEllen&layout=compact&theme=radical)
 ##  Onde me encontrar
 
 📧 Email: `ellenruth526@gmail.com`  
