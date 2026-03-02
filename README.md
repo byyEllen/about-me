@@ -49,9 +49,9 @@
 
 ##  Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byyEllen&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byyEllen&layout=compact&theme=tokyonight)
 ---
 
 ##  Onde me encontrar
