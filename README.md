@@ -58,5 +58,6 @@
 💼 LinkedIn: https://www.linkedin.com/in/ellen-ruth-cardoso-santos-8818bb283  
 
 ---
+<img src="https://i.pinimg.com/originals/65/9a/86/659a86c9624057d64eb94ccfb9c10bd0.gif" width="250px" align="right" />
 
 > "Construindo não apenas código, mas experiências."
